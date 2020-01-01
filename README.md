@@ -7,13 +7,13 @@ In my current position, I write a lot for PlanRadar's corporate blog (German) wh
 
 # PR articles for PlanRadar
 Various of my PR articles (German) for PlanRadar are also featured on other sites:
-- https://www.the-property-post.de/gastbeitraege/fachaufsaetze/ki-der-immobilienbranche
-- http://www.deal-magazin.com/news/86875/PlanRadar-verfolgt-Expansionsstrategie-in-Suedosteuropa
-- https://www.architekturblatt.de/planradar-beim-ey-entrepreneur-of-the-year-award-in-wien-ausgezeichnet/
+- [KI in der Immobilienbranche / the-property-post.de](https://www.the-property-post.de/gastbeitraege/fachaufsaetze/ki-der-immobilienbranche)
+- [PlanRadar verfolgt Expansionsstrategie in Südosteuropa / deal-magazin.com](http://www.deal-magazin.com/news/86875/PlanRadar-verfolgt-Expansionsstrategie-in-Suedosteuropa)
+- [PlanRadar beim EY-Award ausgezeichnet / architekturblatt.de](https://www.architekturblatt.de/planradar-beim-ey-entrepreneur-of-the-year-award-in-wien-ausgezeichnet/)
 
 # Specialist articles and PR articles for WimTec
 Here is a selection of specialist articles and PR articles (German) I wrote for WimTec, a company that develops advanced electronic fittings. These articles were published in various German and Austrian trade journals:
-- https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20WimTec%20Armaturen%20f%C3%BCr%20Hotel%20(German).pdf
-- https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20WimTec%20Invest%20(German).pdf
-- https://github.com/theonlyduck/Content-Marketing/blob/master/Specialist%20Article%20-%20Gef%C3%A4hrdungsanalyse%20Trinkwasser%20(German).pdf
-- https://github.com/theonlyduck/Content-Marketing/blob/master/Specialist%20Article%20-%20WimTec%20HyPlus%20(German).pdf
+- [PR Article - WimTec Hotel Armaturen.pdf](https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20WimTec%20Armaturen%20f%C3%BCr%20Hotel%20(German).pdf)
+- [PR Article - WimTec Invest.pdf](https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20WimTec%20Invest%20(German).pdf)
+- [Specialist Article - Gefährdungsanalyse Trinkwasser.pdf](https://github.com/theonlyduck/Content-Marketing/blob/master/Specialist%20Article%20-%20Gef%C3%A4hrdungsanalyse%20Trinkwasser%20(German).pdf)
+- [Specialist Article - WimTec HyPlus.pdf](https://github.com/theonlyduck/Content-Marketing/blob/master/Specialist%20Article%20-%20WimTec%20HyPlus%20(German).pdf)
