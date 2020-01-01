@@ -1,9 +1,9 @@
 # Content-Marketing
 
-Various corporate blog posts, PR copy, and specialist articles written by me.
+Various forms of marketing content (corporate blog posts, PR copy, and specialist articles) written by me.
 
 # Blog posts for PlanRadar
-I write a lot for PlanRadar's corporate blog (German) which focuses on information and developments in the construction and real estate sectors. Articles are based on extensive subject-related research and are SEO-optimized: https://www.planradar.com/de/author/johannes/
+In my current position, I write a lot for PlanRadar's corporate blog (German) which focuses on information and developments in the construction and real estate sectors. Articles are based on extensive subject-related research and are SEO-optimized: https://www.planradar.com/de/author/johannes/
 
 # PR articles for PlanRadar
 Various of my PR articles (German) for PlanRadar are also featured on other sites:
