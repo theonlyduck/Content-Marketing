@@ -12,7 +12,7 @@ Various of my PR articles (German) for PlanRadar are also featured on other site
 - https://www.architekturblatt.de/planradar-beim-ey-entrepreneur-of-the-year-award-in-wien-ausgezeichnet/
 
 # Specialist articles and PR articles for WimTec
-Here is a selection of specialist articles and PR articles (German) I wrote for WimTec, a company that develops advanced electronic fittings:
+Here is a selection of specialist articles and PR articles (German) I wrote for WimTec, a company that develops advanced electronic fittings. These articles were published in various German and Austrian trade journals:
 - https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20WimTec%20Armaturen%20f%C3%BCr%20Hotel%20(German).pdf
 - https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20WimTec%20Invest%20(German).pdf
 - https://github.com/theonlyduck/Content-Marketing/blob/master/Specialist%20Article%20-%20Gef%C3%A4hrdungsanalyse%20Trinkwasser%20(German).pdf
