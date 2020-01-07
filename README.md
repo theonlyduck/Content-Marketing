@@ -6,7 +6,9 @@ Various forms of marketing content (corporate blog posts, PR copy, and specialis
 In my current position, I write a lot for PlanRadar's corporate blog (German) which focuses on information and developments in the construction and real estate sectors. Articles are based on extensive subject-related research and are SEO-optimized: https://www.planradar.com/de/author/johannes/
 
 # PR articles for PlanRadar
-Various of my PR articles (German) for PlanRadar are also featured on other sites:
+Various of my PR articles for PlanRadar:
+- [Digitization in the Construction Industry / Business Link 03-2019](https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20Digitization%20Construction%20Industry%20(English).pdf)
+- [Planungsprozesse digitalisieren und vereinfachen / TGA 11-2019](https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20Planungsprozesse%20digitalisieren%20(German).pdf)
 - [KI in der Immobilienbranche / the-property-post.de](https://www.the-property-post.de/gastbeitraege/fachaufsaetze/ki-der-immobilienbranche)
 - [PlanRadar verfolgt Expansionsstrategie in Südosteuropa / deal-magazin.com](http://www.deal-magazin.com/news/86875/PlanRadar-verfolgt-Expansionsstrategie-in-Suedosteuropa)
 - [PlanRadar beim EY-Award ausgezeichnet / architekturblatt.de](https://www.architekturblatt.de/planradar-beim-ey-entrepreneur-of-the-year-award-in-wien-ausgezeichnet/)
