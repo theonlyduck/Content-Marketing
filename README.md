@@ -15,7 +15,7 @@ Various of my PR articles for PlanRadar:
 
 # Specialist articles and PR articles for WimTec
 Here is a selection of specialist articles and PR articles (German) I wrote for WimTec, a company that develops advanced electronic fittings. These articles were published in various German and Austrian trade journals:
-- [PR Article - WimTec Hotel Armaturen.pdf](https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20WimTec%20Armaturen%20f%C3%BCr%20Hotel%20(German).pdf)
-- [PR Article - WimTec Invest.pdf](https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20WimTec%20Invest%20(German).pdf)
-- [Specialist Article - Gefährdungsanalyse Trinkwasser.pdf](https://github.com/theonlyduck/Content-Marketing/blob/master/Specialist%20Article%20-%20Gef%C3%A4hrdungsanalyse%20Trinkwasser%20(German).pdf)
-- [Specialist Article - WimTec HyPlus.pdf](https://github.com/theonlyduck/Content-Marketing/blob/master/Specialist%20Article%20-%20WimTec%20HyPlus%20(German).pdf)
+- [Kompakt, sparsam und komfortabel / Österr. Installateur 10-2018](https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20WimTec%20Armaturen%20f%C3%BCr%20Hotel%20(German).pdf)
+- [Kapitalmarkt im Umbruch / TGA 9-2016](https://github.com/theonlyduck/Content-Marketing/blob/master/PR%20Article%20-%20WimTec%20Invest%20(German).pdf)
+- [Drehbuch für die Gefährdungsanalyse Trinkwasser / Krankenhaustechnik & Management 9-2018](https://github.com/theonlyduck/Content-Marketing/blob/master/Specialist%20Article%20-%20Gef%C3%A4hrdungsanalyse%20Trinkwasser%20(German).pdf)
+- [Die Trinkwassergüte sichern / SBZ 23-2018](https://github.com/theonlyduck/Content-Marketing/blob/master/Specialist%20Article%20-%20WimTec%20HyPlus%20(German).pdf)
